@@ -3,3 +3,4 @@ notebooks/.ipynb_checkpoints
 Aily_DS Challenge_Churn_Case.pdf
 .env
 .env.leave
+notebooks/helper_chunks_code.ipynb
